@@ -3,6 +3,8 @@ Code of Conduct
 
 #### Code for Boston's Code of Conduct
 
+[(Why a Code of Conduct?)](http://incisive.nu/2014/codes-of-conduct/)
+
 The Code for Boston community expects that Code for Boston network activities, events, and digital forums:
 
 1. Are a safe and respectful environment for all participants.
