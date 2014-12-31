@@ -1,5 +1,5 @@
-codeofconduct
-=============
+Code of Conduct
+===============
 
 #### Code for Boston's Code of Conduct
 
@@ -59,7 +59,7 @@ You can reach me at (CONTACT INFO). Thank you.
 
 #### Default contact information for Code for Boston events.
 
-##### Brigade Organizers
+##### Code for Boston Organizers
 
 - Harlan Weber hweber@codeforamerica.org
 - Matt Cloyd mcloyd@codeforamerica.org
