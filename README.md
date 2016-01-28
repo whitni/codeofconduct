@@ -33,7 +33,7 @@ This policy is based on several other policies, including the Ohio LinuxFest ant
 
 All Boston LibTech'r network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-Boston LibTech'r is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for Boston event or network activity, including talks.
+Boston LibTech'r is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Boston LibTech'r event or network activity, including talks.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
@@ -53,7 +53,7 @@ We value your attendance and hope that by communicating these expectations widel
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
-I am writing because of harassment at a Code for Boston event, (NAME, PLACE, DATE OF EVENT).
+I am writing because of harassment at a Boston LibTech'rs event, (NAME, PLACE, DATE OF EVENT).
 
 You can reach me at (CONTACT INFO). Thank you.
 
