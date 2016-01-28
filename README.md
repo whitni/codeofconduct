@@ -60,9 +60,9 @@ You can reach me at (CONTACT INFO). Thank you.
 #### Default contact information for Boston LibTech'r events.
 
 ##### Boston LibTech'rs Organizers
-
+- Group Email: bostonlibtechr@gmail.com (monitored by organizers)
 - Whitni Watkins, organizer, whitni.watkins AT gmail.com or Twitter DM @_whitni 
-- Callan Bignoli, co-organizer, shehadausername AT gmail.com Twitter @eminence_font
+- Callan Bignoli, co-organizer, shehadausername AT gmail.com 
 
 ##### Local Resources
 
