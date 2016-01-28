@@ -1,11 +1,12 @@
 Code of Conduct
 ===============
 
-#### Code for Boston's Code of Conduct
+#### Greater Boston LibTechr's Code of Conduct
+This Code of Conduct is based on Code for Boston's policy and adjusted to fit the Greater Boston LibTechr's
 
 [(Why a Code of Conduct?)](http://incisive.nu/2014/codes-of-conduct/)
 
-The Code for Boston community expects that Code for Boston network activities, events, and digital forums:
+The Boston LibTech'r community expects that Boston LibTech'r network activities, events, and digital forums:
 
 1. Are a safe and respectful environment for all participants.
 2. Are a place where people are free to fully express their identities.
@@ -20,10 +21,9 @@ The Code for Boston community expects that Code for Boston network activities, e
 11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 12. Provide an environment where people are free from discrimination or harassment.
 
-Code for Boston reserves the right to ask anyone in violation of these policies not to participate in Code for Boston network activities, events, and digital forums.
+Boston LibTech'r reserves the right to ask anyone in violation of these policies not to participate in Boston LibTech'r network activities, events, and digital forums.
 
-
-#### Code for Boston's Anti-Harassment Policy
+#### Boston LibTech'r's Anti-Harassment Policy
 
 This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -31,15 +31,13 @@ This policy is based on several other policies, including the Ohio LinuxFest ant
 
 * * *
 
-All Code for Boston network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
+All Boston LibTech'r network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-In addition to governing our own events by this policy, Code for Boston will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, see this guide.
-
-Code for Boston is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for Boston event or network activity, including talks.
+Boston LibTech'r is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for Boston event or network activity, including talks.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
-If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for Boston network activities, events, and digital forums. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone in violation of these policies may expelled from Code for Boston network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
+If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Boston LibTech'r network activities, events, and digital forums. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone in violation of these policies may expelled from Greater Boston LibTech'r network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them using the contact information listed below.
 
@@ -47,7 +45,7 @@ Event staff or forum administrators will be happy to help participants contact h
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
-You can also contact Code for Boston about harassment at safespace@codeforboston.org and feel free to use the email template below. Code for Boston staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+You can also contactGreater Boston LibTechr's about harassment at bostonlibtechr@gmail.com and feel free to use the email template below. We are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
@@ -59,18 +57,12 @@ I am writing because of harassment at a Code for Boston event, (NAME, PLACE, DAT
 
 You can reach me at (CONTACT INFO). Thank you.
 
-#### Default contact information for Code for Boston events.
+#### Default contact information for Boston LibTech'r events.
 
-##### Code for Boston Organizers
+##### Boston LibTech'rs Organizers
 
-- Harlan Weber hweber@codeforamerica.org
-- Matt Cloyd mcloyd@codeforamerica.org
-- Lyre Calliope lyre@codeforboston.org
-- Ethan Bagley ethan@codeforboston.org
-- Kristen Weber kristen@codeforboston.org
-- Becky Donner becky@codeforboston.org
-- Isaac Chansky isaac@codeforboston.org
-- Maria Grinko maria@codeforboston.org
+- Whitni Watkins, organizer, whitni.watkins@gmail.com or Twitter DM @_whitni 
+- Callan, co-organizer Twitter @eminence_font
 
 ##### Local Resources
 
