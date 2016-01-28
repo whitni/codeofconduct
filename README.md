@@ -61,8 +61,8 @@ You can reach me at (CONTACT INFO). Thank you.
 
 ##### Boston LibTech'rs Organizers
 
-- Whitni Watkins, organizer, whitni.watkins@gmail.com or Twitter DM @_whitni 
-- Callan, co-organizer Twitter @eminence_font
+- Whitni Watkins, organizer, whitni.watkins AT gmail.com or Twitter DM @_whitni 
+- Callan Bignoli, co-organizer, shehadausername AT gmail.com Twitter @eminence_font
 
 ##### Local Resources
 
